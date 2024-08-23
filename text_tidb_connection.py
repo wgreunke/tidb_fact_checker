@@ -1,6 +1,6 @@
 #This tests the connection to tidby
 #App is availible here: https://test-tidb.streamlit.app/
-import streamlit
+import streamlit as st
 
 
 
