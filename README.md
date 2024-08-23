@@ -3,9 +3,9 @@
 See the app: https://tidb-checker.streamlit.app/
 
 # Team:
-. Ward Greunke
-. Rob
-. Tanisha Dhopeshwar
+* Ward Greunke
+* Rob
+* Tanisha Dhopeshwar
 
 
 # Source List
