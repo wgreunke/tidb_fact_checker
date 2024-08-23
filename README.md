@@ -9,6 +9,7 @@ See the app: https://tidb-checker.streamlit.app/
 
 
 # Source List
+This app pulls facts from the following sources:
 1. https://www.who.int/news-room/fact-sheets World Health Organization
 1. https://www.whitehouse.gov/dpc/fact-sheets/ White House Fact Sheets
 1. https://www.commerce.gov/news/fact-sheets Departement of Comerce Face Sheets
