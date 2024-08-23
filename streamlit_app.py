@@ -5,7 +5,6 @@
 # st.write(statement)
 
 import streamlit as st
-from sentence_transformers import SentenceTransformer
 import numpy as np
 import time
 
