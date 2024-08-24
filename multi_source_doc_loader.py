@@ -244,7 +244,7 @@ embed_model_dims=embed_model.get_sentence_embedding_dimension()
 
 
 #Connection String
-tidb_connection_string="mysql+mysqldb://4DdAZ4FvfFtMb6Y.root:TlaxhK73yueEhQi9@gateway01.us-west-2.prod.aws.tidbcloud.com:4000/test?ssl_mode=VERIFY_IDENTITY&ssl_ca=/content/isrgrootx1.pem"
+tidb_connection_string=""
 
 
 
